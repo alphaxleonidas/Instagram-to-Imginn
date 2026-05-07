@@ -6,7 +6,7 @@ Redirects Instagram to Imginn
 
 Requirements: Violentmonkey or TamperMonkey or any other script manager
 
-# Script Manager
+# Userscript Manager
 
 <a href="https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?pli=1">
 <img src="https://img.shields.io/badge/Get_it_on_Chrome-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Get it on Chrome for Violentmonkey" height="60"/>
